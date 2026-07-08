@@ -67,9 +67,9 @@ Utilize a tabela abaixo para calcular o valor da diária e o valor por quilômet
 
 | Tipo de carro | Valor da diária | Valor por km |
 | ------------- | --------------: | -----------: |
-| Popular       |        R$ 90,00 |      R$ 0,25 |
-| Intermediário |       R$ 140,00 |      R$ 0,40 |
-| Luxo          |       R$ 220,00 |      R$ 0,70 |
+   | Popular       |        R$ 90,00 |      R$ 0,25 |
+   | Intermediário |       R$ 140,00 |      R$ 0,40 |
+   | Luxo          |       R$ 220,00 |      R$ 0,70 |
 
 Caso o aluguel tenha duração superior a `7` dias, o cliente deverá receber `10%` de desconto sobre o valor total.
 
